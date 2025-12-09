@@ -1,2 +1,2 @@
 # FlutterFlow-Supabase
-Learning and committing some project stuffs!
+Learning and committing some relevant stuffs!
