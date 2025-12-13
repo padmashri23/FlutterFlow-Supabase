@@ -1,7 +1,4 @@
 ### Doing Basic crud operations in supabase and testing it in Postman:
-
-<img width="1401" height="850" alt="image" src="https://github.com/user-attachments/assets/9571841d-7b44-4068-bee8-20ed6edff0b4" />
-
 ### Get Request & Select operation:
 <img width="881" height="759" alt="image" src="https://github.com/user-attachments/assets/40e2140e-3922-4bdb-93cf-886ec2d609fc" />
 
