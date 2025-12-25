@@ -11,5 +11,5 @@
 ### RLS Select policy(true) without where clause:
 <img width="1917" height="953" alt="image" src="https://github.com/user-attachments/assets/b06e4aff-30bc-46e2-8767-97be8a2692ec" />
 
-### RLS Select policy(true) with where clause:
+### RLS Select policy(true) with where clause:  
 <img width="1910" height="964" alt="image" src="https://github.com/user-attachments/assets/139b88b8-bde9-4649-ada9-4e3f47de01b8" />
