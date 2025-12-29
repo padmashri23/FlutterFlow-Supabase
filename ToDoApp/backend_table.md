@@ -11,7 +11,7 @@
 <img width="1487" height="716" alt="image" src="https://github.com/user-attachments/assets/689369e4-07b0-49a1-b8cb-ad0ae28b98df" />
 
 ### RLS Policy for todo:
-<img width="1909" height="786" alt="image" src="https://github.com/user-attachments/assets/f62b606c-925f-45ad-9691-b23ed21ddca9" />
+<img width="1909" height="786" alt="image" src="https://github.com/user-attachments/assets/f62b606c-925f-45ad-9691-b23ed21ddca9" />   
 
 ### Fully functional to-do app:
 
