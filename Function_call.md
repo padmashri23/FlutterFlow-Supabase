@@ -11,7 +11,7 @@
 - Encapsulate complex queries and business logic on the server (fewer round-trips).
 - Keep sensitive logic or calculations in the database, not on the client.
 - Reuse logic across different clients (web, mobile, server).
-- Sometimes faster for complex joins/aggregations because work runs close to the data.
+- Sometimes faster for complex joins/aggregations because work runs close to the data.    
 
 ---
 
